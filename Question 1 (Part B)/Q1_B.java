@@ -13,9 +13,6 @@ public class Q1_B {
 		//-----------------------------------------------------
 		// Title: Question 1 - Part B
 		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 1
 		// Description: This is the main class for Question 1 (Part B) 
 		//              which depends on the LinkedList.java class directly
 		//              and the Node_Q1B class indirectly in order to check 
