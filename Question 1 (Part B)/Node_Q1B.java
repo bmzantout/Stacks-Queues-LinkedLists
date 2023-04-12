@@ -5,9 +5,6 @@ public class Node_Q1B {
 	//-----------------------------------------------------
 	// Title: Question 1 - Part A
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is the class used by Question 1 (Part B) which is
 	//              a Node class that creates a Node and has the required
 	//              getter and setter methods for it. It also does the required
