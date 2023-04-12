@@ -14,9 +14,6 @@ public class Q2 {
 		//-----------------------------------------------------
 		// Title: Question 2
 		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 1
 		// Description: This is the main class for Question 2 which depends on the
 		//              QueueofBitcoinPrices.java class directly and uses the Queues
 		//              data structure as arrays for the solution
