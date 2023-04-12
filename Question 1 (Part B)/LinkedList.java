@@ -5,9 +5,6 @@ public class LinkedList {
 	//-----------------------------------------------------
 	// Title: Question 1 - Part B
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is the class used by Question 1 (Part B) which is
 	//              a LinkedList class that creates Singly linked lists
 	//              from nodes (it directly depends on the Node_Q1B.java class)
