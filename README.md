@@ -25,9 +25,8 @@ This project includes various implementations of data structures and algorithms,
 - Queue
 - Linked List
 
-All you need to do is to read the tasks of the project written in the attached "Tasks.pdf" and start implementing based on the given guidelines.
+All you need to do is to read the tasks of the project written in the attached "Tasks.pdf" and start implementing based on the given guidelines. [Tasks.pdf](https://github.com/bmzantout/Stacks-Queues-LinkedLists/files/11214774/Tasks.pdf)
 
-[temp.pdf](https://github.com/bmzantout/Stacks-Queues-LinkedLists/files/11214752/temp.pdf)
 ## Contributing
 
 Contributions to this project are welcome and appreciated! If you find any bugs or have any suggestions for improvement, please open an issue or submit a pull request.
