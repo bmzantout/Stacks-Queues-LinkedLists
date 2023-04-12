@@ -12,9 +12,6 @@ public class Q1_A {
 		//-----------------------------------------------------
 		// Title: Question 1 - Part A
 		// Author: Basme Zantout
-		// ID: 99227947762
-		// Section: 1
-		// Assignment: 1
 		// Description: This is the main class for Question 1 (Part A) which depends
 		//              on the DoubleLinkedList.java class directly and Node.java class
 		//              indirectly to return a matrix in spiral form using linked lists
