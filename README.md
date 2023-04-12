@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project provides an implementation of various data structures and algorithms using stacks, queues, and linked lists. Through this project, you will gain a deeper understanding of these fundamental data structures and their applications. Check the pdf attached to learn more about the tasks & questions.
+This project provides an implementation of various data structures and algorithms using stacks, queues, and linked lists. Through this project, you will gain a deeper understanding of these fundamental data structures and their applications. The project code is written in a clear and concise manner, with detailed comments throughout to facilitate easy understanding and modification.
 
 ## Getting Started
 
