@@ -7,13 +7,10 @@ public class QueueofBitcoinPrices {
 	//-----------------------------------------------------
 	// Title: Question 2
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is the class used by Question 2 which is
 	//              a Queue class that creates a Queue of Bitcoin 
 	//              Ranges using arrays. It also has the required 
-    //              methods to calculate and print the Bitcoin Ranges
+        //              methods to calculate and print the Bitcoin Ranges
 	//-----------------------------------------------------
 	
 	
