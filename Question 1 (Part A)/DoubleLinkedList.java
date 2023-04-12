@@ -6,9 +6,6 @@ public class DoubleLinkedList {
 	//-----------------------------------------------------
 	// Title: Question 1 - Part A
 	// Author: Basme Zantout
-	// ID: 99227947762
-	// Section: 1
-	// Assignment: 1
 	// Description: This is the class used by Question 1 (Part A) which is
 	//              a DoubleLinkedList class that creates Double linked lists
 	//              from nodes (it directly depends on the Node.java class)
@@ -712,12 +709,12 @@ public class DoubleLinkedList {
 
 	
 	
-	//-------------------------------------------------------	
+    //-------------------------------------------------------	
     // Purpose: This public method prints a linked list in a 
     //          specific format e.g. [value1, value2, value3...]
-	// Function: using a while we iterate through the loop nodes
-	//           one by one starting from the head until the end 
-	//           of the list
+    // Function: using a while we iterate through the loop nodes
+    //           one by one starting from the head until the end 
+    //           of the list
     //-------------------------------------------------------
 	
 	public void printDoubleLinkedList ()
